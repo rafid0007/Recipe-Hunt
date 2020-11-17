@@ -4,7 +4,7 @@
 ## **Made With:**
   * HTML
   * CSS
-  * VANILLA JAVASCRIPT
+  * VANILLA JAVASCRIPT (ES6)
   * LIBRARIES-
     * AXIOS
 
