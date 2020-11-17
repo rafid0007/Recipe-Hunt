@@ -8,7 +8,7 @@
   * LIBRARIES-
     * AXIOS
 
-##Functionality:
+## Functionality:
 * Finding recipe (Not all recipe available.Try:"pasta","pizza","sushi" etc
 * Option to show individual ingredients with proper amount.
 * Estimated time to prepare a recipe has been calculated through an algorithm.
