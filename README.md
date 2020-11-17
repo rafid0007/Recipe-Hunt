@@ -1,7 +1,5 @@
-# Forkify
-
-## Recipe finder application
-* **App Link:** <https://rafid0007.github.io/Forkify/dist/index.html>
+# Recipe finder application
+## **App Link:** <https://rafid0007.github.io/Forkify/dist/index.html>
 
 * **Used:**
   * HTML
