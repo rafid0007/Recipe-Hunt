@@ -1,7 +1,7 @@
 # Recipe finder application
 ## **App Link:** <https://rafid0007.github.io/Recipe-Hunt/dist/>
 
-* **Used:**
+## **Made With:**
   * HTML
   * CSS
   * VANILLA JAVASCRIPT
