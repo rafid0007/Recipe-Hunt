@@ -4,9 +4,7 @@
 ## **Made With:**
   * HTML
   * CSS
-  * VANILLA JAVASCRIPT (ES6)
-  * LIBRARIES-
-    * AXIOS
+  * JAVASCRIPT(ES6)
 
 ## Functionality:
 * Finding recipe (Not all recipe available.Try:"pasta","pizza","sushi" etc
